@@ -1,0 +1,15 @@
+.table {
+  border: 2px solid forestgreen;
+  margin: 1rem auto;
+  width: 80rem;
+  height: 2rem;
+  
+}
+
+.table th {
+  border-bottom: 1px solid black;
+}
+
+.table td {
+  text-align: center;
+}
